@@ -8,7 +8,7 @@ Louise's play *Fever* has arrived close to its fundraising goal, and in a short 
 
 ## Analysis and Challenges
 
-The analysis is in LINK. Within the main data in the tab *Kickstarter Analysis*, I added a *Years* column to the end that referenced the Date Launched.
+The analysis is in [Kickstarter Analysis](https://github.com/bessobrien/kickstarter-analysis/blob/master/Kickstarter_Challenge.xlsx). Within the main data in the tab *Kickstarter Analysis*, I added a *Years* column to the end that referenced the Date Launched.
 
 Two new tables were created:
 1. Theater Outcomes by Launch Date
@@ -21,7 +21,7 @@ Within the tab, *Outcomes Based on Launch Date*, I created a pivot table to filt
 3. Count of outcomes in the values
 4. Filtered down to theater
 
-A visualization is provided here: LINK
+A visualization is provided here: ![Outcomes Based on Launch Date](https://github.com/bessobrien/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Within the tab, *Outcomes Based on Goals*, I created a table:
@@ -29,7 +29,7 @@ Within the tab, *Outcomes Based on Goals*, I created a table:
 
 The table represents the count of each outcome of all plays at each goal range. 
 
-A visualization of the data is provided here: LINK
+A visualization of the data is provided here: ![Outcomes Based on Goals](https://github.com/bessobrien/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
